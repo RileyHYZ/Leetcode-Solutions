@@ -1,3 +1,6 @@
+/*Given two arrays, write a function to compute their intersection.
+*/
+
 #include <vector>
 #include <iostream>
 using namespace std;
