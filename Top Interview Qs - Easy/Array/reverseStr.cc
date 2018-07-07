@@ -2,6 +2,7 @@
 /*Write a function that takes a string as input and returns the string reversed.
 */
 #include <vector>
+#include <string>
 using namespace std;
 class Solution {
 public:
